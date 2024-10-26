@@ -1,3 +1,4 @@
 This is example 2
 
 I am changing it - merge conflicts - Hello World
+I am changing it - merge conflicts - Hello
